@@ -10,6 +10,8 @@ This software is held under the Apache 2.0 license, I do not wish any of this co
 
 <h1>User Manual</h1>
 
+Some of the screenshots were taken during the development stages, so there are no thumbnails for certain things, thumbnails were created at the end, as they were not system integral.
+
 <h3>Logging In</h3>
 
 <p class=MsoNormal style='line-height:15.0pt;mso-pagination:none;mso-layout-grid-align:
