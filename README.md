@@ -4,6 +4,8 @@ This is a simple billing system that I wrote a while ago for my college graded u
 
 The system is written in Ruby making use of the Ruby on Rails framework. Please feel free to view any section and ask questions etc.
 
+The config directory has been removed due to sensitive data being contained in this directory.
+
 This software is held under the Apache 2.0 license, I do not wish any of this code to be reused unless given permission by myself to do so.
 
 <h1>User Manual</h1>
